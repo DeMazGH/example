@@ -3,5 +3,6 @@ public class Main {
         System.out.println("Люк я твой OTETC");
         System.out.println("неееееет!!!!!!!!!!!!!!!!!");
         System.out.println("познай силу");
+        System.out.println("познал");
     }
 }
